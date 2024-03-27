@@ -12,4 +12,3 @@ screen records:
 
 ![record0](./imgs/record0.gif)
 ![record1](./imgs/record1.gif)
-![record2](./imgs/rcord_small.mp4)
